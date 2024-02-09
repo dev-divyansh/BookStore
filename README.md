@@ -3,18 +3,26 @@
 
 ## HomePage Screen
 
-!["homepage image"](img.png)
+!["homepage image"](readmeImage/img.png)
 
 <br/>
 <br/>
 
 ## Available Books Screen
 
-!["available books screen image"](abooks.png)
+!["available books screen image"](readmeImage/abooks.png)
 
 <br/>
 <br/>
 
 ## MyBooks Screen
 
-!["mybook screen image"](mybooks.png)
+!["mybook screen image"](readmeImage/mybooks.png)
+
+
+<br/>
+<br/>
+
+## Register Book Screen
+
+!["register book screen image"](readmeImage/registerscreen.png)
