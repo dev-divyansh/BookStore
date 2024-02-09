@@ -8,6 +8,13 @@
 <br/>
 <br/>
 
+## Available Books Screen
+
+!["available books screen image"](abooks.png)
+
+<br/>
+<br/>
+
 ## MyBooks Screen
 
 !["mybook screen image"](mybooks.png)
